@@ -32,6 +32,6 @@ For performance reasons the source uses shared memory. The size of the memory de
 4. recomplie  with setup.py
 
 # Sources 
-[1] https://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf
-[2] https://github.com/MiguelMonteiro/CRFasRNNLayer 
+[1] https://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf\n
+[2] https://github.com/MiguelMonteiro/CRFasRNNLayer \n
 [3] https://www.cnblogs.com/jermmyhsu/p/10962987.html 
