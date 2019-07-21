@@ -33,5 +33,5 @@ For performance reasons the source uses shared memory. The size of the memory de
 
 # Sources 
 [1] https://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf
-[2] https://github.com/MiguelMonteiro/CRFasRNNLayer
-[3] https://www.cnblogs.com/jermmyhsu/p/10962987.html
+[2] https://github.com/MiguelMonteiro/CRFasRNNLayer 
+[3] https://www.cnblogs.com/jermmyhsu/p/10962987.html 
