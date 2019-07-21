@@ -5,7 +5,7 @@ The CRFasRNN Model was introduced by Zheng el al [1]. The Source code [2] from M
 To use the package, it's necessary to install the Permuthodral lattice. We recommand the usage of virtual enviourments. 
 
 1. (Optional) Create a virtual enviourments: **python3 -m virtualenv /path/to/ENV/**
-2. Activate the virtual enviourments: **source /path/to/ENV/bin/activate**
+2. Activate the virtual enviourments: **source /path/to/ENV/bin/activate** （**remember install pybind11**）
 3. Goto the Permuthoderal dir: **cd /path/to/pytorch-crfasrnn/Permutohedral_Filtering**
 4. install: **python setup.py install**
 5. use it
@@ -34,3 +34,4 @@ For performance reasons the source uses shared memory. The size of the memory de
 # Sources 
 [1] https://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf
 [2] https://github.com/MiguelMonteiro/CRFasRNNLayer
+[3] https://www.cnblogs.com/jermmyhsu/p/10962987.html
